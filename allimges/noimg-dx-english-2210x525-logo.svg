@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2100" height="525" viewBox="0 0 2100 525">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 375px;
+        fill: #fc6464;
+        font-family: Aldrich;
+      }
+
+      .cls-2 {
+        fill: #fc64fc;
+      }
+
+      .cls-3 {
+        fill: #fc649c;
+      }
+
+      .cls-4 {
+        fill: #9c64fc;
+      }
+
+      .cls-5 {
+        fill: #fc64cc;
+      }
+
+      .cls-6 {
+        fill: #ff44c1;
+      }
+
+      .cls-7 {
+        fill: #d049e5;
+      }
+    </style>
+  </defs>
+  <text id="BYTE.SKIN" class="cls-1" transform="translate(28 387.694) scale(1 0.955)">B<tspan class="cls-2">Y<tspan class="cls-3">T<tspan class="cls-4">E</tspan></tspan></tspan>.<tspan class="cls-3">S<tspan class="cls-5">K<tspan class="cls-6">I<tspan class="cls-7">N</tspan></tspan></tspan></tspan></text>
+</svg>

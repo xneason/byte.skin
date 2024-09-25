@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2300" height="979" viewBox="0 0 2300 979">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+        fill: url(#linear-gradient);
+        filter: url(#filter);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1150" y1="181" x2="1150" y2="660" gradientUnits="userSpaceOnUse">
+      <stop offset="NaN" stop-color="#ffebd0"/>
+      <stop offset="Infinity" stop-color="#fcb8a0"/>
+    </linearGradient>
+    <filter id="filter" x="766" y="166" width="769" height="536" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="13" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="5.385"/>
+      <feFlood result="flood" flood-opacity="0.35"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Shape" class="cls-1" d="M1299.52,365.776v41.163h42.72c21.36,0,21.36-14.475,21.36-20.747,0-6.121,0-20.415-21.36-20.415h-42.72Zm49.68,82.749h-28.32v81.933H1256.8V324.6h106.8c22.72,0,32.24,1.854,43.53,12.65,11.33,10.765,20.55,29.221,20.55,49.109,0,20.461-9.72,33.368-22.08,44.888C1393.32,442.765,1374.44,448.525,1349.2,448.525ZM1214.08,324.6v205.86H1150V324.6h64.08ZM1043.2,530.458H979.125L893.684,324.6h64.079L1010.38,466.9,1064.56,324.6h64.08ZM868.676,181c-36.216,0-74.671,20.083-74.671,61.262V594.2c0,33.021,29.075,65.8,65.292,65.8h581.4c36.22,0,65.3-32.78,65.3-65.8V242.257c0-41.179-47.84-61.262-84.05-61.262H868.676Z"/>
+</svg>
